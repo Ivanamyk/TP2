@@ -1,2 +1,2 @@
 # TP2
-trabajo practico n° 2 hecho de JavaScript.
+trabajo practico n° 2 de JavaScript.
